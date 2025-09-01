@@ -27,5 +27,5 @@ export default defineConfig({
       }
     })
   ],
-  base: '/mostardinha-site/' // Para GitHub Pages; ajuste para Vercel se root.
+  base: '/mostardinha-site/' // Ajuste se necessário
 });
