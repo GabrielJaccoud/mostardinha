@@ -27,5 +27,5 @@ export default defineConfig({
       }
     })
   ],
-  base: '/mostardinha-site/' // Ajuste se necessário
+  base: '/mostardinha-site/' // Ajuste para o nome do seu repositório
 });
