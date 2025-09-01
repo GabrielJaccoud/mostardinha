@@ -1,0 +1,12 @@
+/* Seu CSS original + melhorias para responsividade e animações */
+.app {
+  min-height: 100vh;
+}
+
+@media (max-width: 768px) {
+  .nav-menu {
+    display: none; /* Hamburger menu - adicione JS para toggle se necessário */
+  }
+}
+
+/* Adicione mais do seu App.css original aqui... */
